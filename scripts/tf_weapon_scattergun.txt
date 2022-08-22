@@ -82,11 +82,11 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/cpma_11"
+				"file"		"vgui/replay/thumbnails/xhair_shotgun"
 				"x"		"0"
 				"y"		"0"
-				"width"		"64"
-				"height"	"64"
+				"width"		"256"
+				"height"	"256"
 		}
 		"autoaim"
 		{
